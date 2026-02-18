@@ -54,6 +54,7 @@ Country with the highest profit of the fourth quarter in 2019
 - Aggregations (SUM, AVG, COUNT)
 - GROUP BY / ORDER BY
 - Filtering (WHERE)
+- Etc
   
 
 
